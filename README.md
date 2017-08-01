@@ -143,3 +143,10 @@ _Letters are shown capitalized for readability only._  _Capslock should be off._
 | man [command] |  Show the help manual for [command] |
 | whatis [command] | Gives a one-line description of [command] |
 | apropos [search-pattern] | Searches for command with keywords in description |
+
+## TROUBLESHOOTING
+| Key/Command | Description |
+| ----------- | ----------- |
+| killall Dock | Kills and then (hopefully) restarts the Dock. This is useful when it stops responding to clicks. Another symptop of a problem with the dock is when you [command] tab and the mouse cursor over an app's icon has a strikethrough. |
+
+
